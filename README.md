@@ -4,8 +4,8 @@
 
 <div>
 <a href="https://github.com/joseantoniodecarvalhoneto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseantoniodecarvalhoneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Jose_Antonio"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseantoniodecarvalhoneto&layout=compact&langs_count=16&theme=tokyonight&custom_title=Linguagens_Usadas"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=joseantoniodecarvalhoneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Jose_Antonio"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseantoniodecarvalhoneto&layout=compact&langs_count=16&theme=tokyonight&custom_title=Linguagens_Usadas"/>
 </div>
 
 <div style="display: inline_block"><br>
