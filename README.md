@@ -25,5 +25,5 @@
 
 </div>
 
-![Snake animation](https://github.com/joseantoniodecarvalhoneto/joseantoniodecarvalhoneto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/joseantoniodecarvalhoneto/joseantoniodecarvalhoneto/output/github-contribution-grid-snake.svg)
 
