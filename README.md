@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=SEJA+BEM+VINDO+AO+MEU+REPOSIT%C3%93RIO!)](https://git.io/typing-svg)
 ##
 
-- 🌱 Sou um estudante de ADS no IFSP(Jacareí)
-
 <div>
 <a href="https://github.com/joseantoniodecarvalhoneto">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joseantoniodecarvalhoneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Jose_Antonio"/>
