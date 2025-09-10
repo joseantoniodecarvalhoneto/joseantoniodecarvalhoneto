@@ -1,4 +1,5 @@
-## Olá, Meu nome é José Antonio!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=SEJA+BEM+VINDO+AO+MEU+REPOSIT%C3%93RIO!)](https://git.io/typing-svg)
+##
 
 - 🌱 Sou um estudante de ADS no IFSP(Jacareí)
 
