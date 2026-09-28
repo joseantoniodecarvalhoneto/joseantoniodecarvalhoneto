@@ -65,10 +65,6 @@
 ### GitHub Activity & Statistics
 
 <div align="center">
-  <a href="https://github.com/joseantoniodecarvalhoneto">
-    <img src="https://github-profile-trophy.vercel.app/?username=joseantoniodecarvalhoneto&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-  <br><br>
 
   <a href="https://github.com/joseantoniodecarvalhoneto">
     <img src="https://streak-stats.demolab.com/?user=joseantoniodecarvalhoneto&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
