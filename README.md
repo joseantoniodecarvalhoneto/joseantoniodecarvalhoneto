@@ -31,7 +31,7 @@
 *Division of Space Geophysics & Computational Sciences*
 
 - **Focus:** Computational Space Geophysics, Big Data Processing & Machine Learning.
-- **Project Antigravity:** Developing automated high-performance pipelines for parsing, calibrating, and modeling ground-based magnetometer datasets from geomagnetic observatory networks (**EMBRACE** and **INTERMAGNET**).
+- **Project:** Developing automated high-performance pipelines for parsing, calibrating, and modeling ground-based magnetometer datasets from geomagnetic observatory networks (**EMBRACE** and **INTERMAGNET**).
 - **Goal:** Identifying geomagnetic disturbances, solar-terrestrial interaction patterns, and preparing structured feature datasets for predictive models of extreme geomagnetic storms.
 
 ---
